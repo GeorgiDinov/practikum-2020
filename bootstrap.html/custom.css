@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+}
+
+.nav-icon{
+    font-size: 2rem;
+}
+
+.logo-item{
+
+font-size: 4rem;
+}
+
+.product-icon{
+    font-size: 4rem;
+}
+
+.icon-container{
+    margin-left:0.5rem ;
+}
